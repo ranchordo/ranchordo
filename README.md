@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**ranchordo/ranchordo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ray and I write random things. Sometimes, if they're actually interesting, I'll put 'em on GitHub. Lately I have been looking towards game design without a pre-made engine, and I have some pretty epic game-related projects (unlike Boson-LWJGL, the total failure) that I am about to make public. So stay tuned!<br><br>
 
-Here are some ideas to get you started:
+You can contact me via the following:
+- Email: <a href="mailto:ranchordo@gmail.com">ranchordo@gmail.com</a>
+- Discord: ranchordo#3689
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Some facts about me
+- I live in Colorado
+- I am entirely self-taught
+- I don't write comments as much as I should
+- Pronouns: He/him
+
+### Some stats stuff, I guess?
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=CraziiAce&show_icons=true&theme=algolia&include_all_commits=true&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CraziiAce&layout=compact&theme=algolia&hide_border=true)
