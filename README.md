@@ -8,9 +8,9 @@ You can contact me via the following:
 
 ### Some facts about me
 - I live in Colorado
-- I am entirely self-taught
-- I don't write comments as much as I should
-- Pronouns: He/him
+- I am entirely self-taught in terms of programming
+- I don't write comments as much as I should because I think code should be able to describe itself
+- My pronouns: He/him
 
 ### Some stats stuff, I guess?
 
