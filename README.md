@@ -18,5 +18,5 @@ You can contact me via the following:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranchordo&layout=compact&theme=algolia&hide_border=true)
 
-Wakatime stats, if they work:
+Wakatime stats, if they work:<br>
 [![ranchordo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ranchordo)](https://github.com/anuraghazra/github-readme-stats)
