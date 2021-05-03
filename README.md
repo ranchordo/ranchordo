@@ -17,3 +17,5 @@ You can contact me via the following:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ranchordo&show_icons=true&theme=algolia&include_all_commits=true&hide_border=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranchordo&layout=compact&theme=algolia&hide_border=true)
+
+[![ranchordo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ranchordo)](https://github.com/anuraghazra/github-readme-stats)
