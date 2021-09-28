@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ray and I write random things. Sometimes, if they're actually interesting, I'll put 'em on GitHub. Lately I have been looking towards game design without a pre-made engine, and I have some pretty epic game-related projects (unlike Boson-LWJGL, the total failure) that I am about to make public. So stay tuned!<br><br>
+My name is Ray and I write random things. Sometimes, if they're actually interesting, I'll put 'em on GitHub. Lately I have been looking towards game design without a pre-made engine (and other computer graphics-y stuff), and I have some pretty epic projects (unlike Boson-LWJGL, the total failure) in the pipeline. So stay tuned!<br><br>
 
 You can contact me via the following:
 - Email: <a href="mailto:ranchordo@gmail.com">ranchordo@gmail.com</a>
