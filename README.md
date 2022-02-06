@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ray and I write random things. Sometimes, if they're actually interesting, I'll put 'em on GitHub. Lately I have been looking towards game design without a pre-made engine (and other computer graphics-y stuff), and I have some pretty epic projects (unlike Boson-LWJGL, the total failure) in the pipeline. So stay tuned!<br><br>
+My name is Ray and I write random things. Sometimes, if they're actually interesting, I'll put 'em on GitHub. Lately I have been looking towards game development and computer graphics without a pre-made engine (and other computer graphics-y stuff). My main project right now is [Lepton](https://github.com/ranchordo/lepton), and I'm currently putting it to the test in some interesting ways.<br><br>
 
 You can contact me via the following:
 - Email: <a href="mailto:ranchordo@gmail.com">ranchordo@gmail.com</a>
@@ -9,7 +9,7 @@ You can contact me via the following:
 ### Some facts about me
 - I live in Colorado
 - I am entirely self-taught in terms of programming
-- I don't write comments as much as I should because I think code should be able to describe itself
+- I don't write comments as much as I should because I think code should be able to describe itself (okay, I have to admit I'm just making excuses at this point)
 - My pronouns: He/him
 
 ### Some stats stuff, I guess?
