@@ -6,11 +6,13 @@ You can contact me via the following:
 - Email: <a href="mailto:ranchordo@gmail.com">ranchordo@gmail.com</a>
 - Discord: ranchordo#3689
 
-### Some facts about me
+### Some random information
 - I live in Colorado
 - I am entirely self-taught in terms of programming
 - I don't write comments as much as I should because I think code should be able to describe itself (okay, I have to admit I'm just making excuses at this point)
 - My pronouns: He/him
+  
+PGP key: [keys.openpgp.org, fingerprint B69AE55E067EDC6D9F9F29EFE015E96E3421AF56](https://keys.openpgp.org/vks/v1/by-fingerprint/B69AE55E067EDC6D9F9F29EFE015E96E3421AF56)
 
 ### Some stats stuff, I guess?
 
